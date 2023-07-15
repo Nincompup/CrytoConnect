@@ -11,8 +11,8 @@ const PortfolioSection = () => {
       justify="space-between"
       bg="white"
       borderRadius="xl"
-      p="6" 
-      mt='10'
+      p="6"
+      mt="10"
       align={{
         base: "flex-start",
         xl: "center",
