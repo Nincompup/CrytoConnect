@@ -31,7 +31,7 @@ const TopNav = ({ title, onOpen }) => {
           {title}
         </Heading>
         <Menu>
-          <a href="https://oms-portfolio.vercel.app/">
+          <a href="https://omlokhande.vercel.app/">
             <MenuButton
               data-bs-toggle="tooltip"
               data-bs-placement="right"
